@@ -1,0 +1,2 @@
+Dolibarr est un logiciel open-source de comptabilité d'entreprise utilisé par une communauté de travailleurs indépendants freelance, certains de ces travailleurs offrent des services à la personne au public, ces services très réglementés nécessitent de respecter formellement certaines contraintes administratives.
+Le but de ce projet est de développer un plugin à Dolibarr qui facilite le respect de ces contraintes.
